@@ -1,5 +1,5 @@
 ### idealBlog 💡
-Collect my idea of blog posts
+Collecting my idea of blog posts
 
 ### here is a template 📃
 - [ ] unfinished idea 💮
