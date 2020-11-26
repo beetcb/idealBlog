@@ -9,6 +9,7 @@ Collecting my idea of blog posts
 - [ ] nodejs alioss upload utilities
 - [ ] shell arguments lose(subjective)
 - [ ] docs \ excel => elegant preview on phone
+- [ ] awesome web api: clipboard/notification/install app/add to homescreen...
 
 ---
 Blogging 🧑‍💻
