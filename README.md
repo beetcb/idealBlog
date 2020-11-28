@@ -10,6 +10,7 @@ Collecting my idea of blog posts
 - [ ] shell arguments lose(subjective)
 - [ ] docs \ excel => elegant preview on phone
 - [ ] awesome web api: clipboard/notification/install app/add to homescreen...
+- [ ] message bot for pw? cloudStorage?
 
 ---
 Blogging 🧑‍💻
