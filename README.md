@@ -11,7 +11,8 @@ Collecting my idea of blog posts
 - [ ] docs \ excel => elegant preview on phone
 - [ ] awesome web api: clipboard/notification/install app/add to homescreen...
 - [ ] message bot for pw? cloudStorage?
-- [ ] ArrayBuffer \ DataView
+- [ ] ArrayBuffer \ View \ Buffer \ Stream
+- [ ] variable scope in concurrent process
 
 ---
 Blogging 🧑‍💻
