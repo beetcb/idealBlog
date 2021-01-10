@@ -13,6 +13,7 @@ Collecting my idea of blog posts
 - [ ] message bot for pw? cloudStorage?
 - [ ] ArrayBuffer \ View \ Buffer \ Stream
 - [ ] variable scope in concurrent process
+- [ ] Conventional Commits ( git )
 
 ---
 Blogging 🧑‍💻
