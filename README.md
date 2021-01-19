@@ -14,6 +14,8 @@ Collecting my idea of blog posts
 - [ ] ArrayBuffer \ View \ Buffer \ Stream
 - [ ] variable scope in concurrent process
 - [ ] Conventional Commits ( git )
+- [ ] Extended Backus–Naur form
+- [ ] repll
 
 ---
 Blogging 🧑‍💻
