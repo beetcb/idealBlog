@@ -16,6 +16,7 @@ Collecting my idea of blog posts
 - [ ] Conventional Commits ( git )
 - [ ] Extended Backus–Naur form
 - [ ] repll
+- [ ] why arrow function is better? [..](https://github.com/beetcb/repll/blob/cd12ee682511c613722b426550277fb3b059a587/lib/replLive.js#L178)
 
 ---
 Blogging 🧑‍💻
