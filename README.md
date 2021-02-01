@@ -18,6 +18,8 @@ Collecting my idea of blog posts
 - [ ] repll
 - [ ] why arrow function is better? [..](https://github.com/beetcb/repll/blob/cd12ee682511c613722b426550277fb3b059a587/lib/replLive.js#L178)
 - [ ] why `(flase || first()) && (flase || second()) && (false || last())` dont work, while `if (flase || first()) if (flase || second()) (false || last())` works
+- [ ] phone message collector
+- [ ] git test branch
 
 ---
 Blogging 🧑‍💻
