@@ -20,7 +20,7 @@ Collecting my idea of blog posts
 - [ ] why `(flase || first()) && (flase || second()) && (false || last())` dont work, while `if (flase || first()) if (flase || second()) (false || last())` works
 - [ ] phone message collector
 - [ ] git test branch
-
+- [ ] tcb env as db???, totaly a hack
 ---
 Blogging 🧑‍💻
 ---
