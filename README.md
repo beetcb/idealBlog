@@ -21,6 +21,7 @@ Collecting my idea of blog posts
 - [ ] phone message collector
 - [ ] git test branch
 - [ ] tcb env as db???, totaly a hack
+- [ ] fix github camo by setting location to '://*' ?
 ---
 Blogging 🧑‍💻
 ---
