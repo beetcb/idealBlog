@@ -22,6 +22,7 @@ Collecting my idea of blog posts
 - [ ] git test branch
 - [ ] tcb env as db???, totaly a hack
 - [ ] fix github camo by setting location to '://*' ?
+- [ ] ifttt -> android monitor
 ---
 Blogging 🧑‍💻
 ---
